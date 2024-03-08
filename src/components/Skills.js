@@ -50,7 +50,7 @@ export const Skills = () => {
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
-                                <h5>Katie</h5>
+                                <h5>Katie1</h5>
                                 <p>” Super relaxing Massage<br></br> helped me a lot <br></br>for migraine issues. ”</p>
                             </div>
                            
