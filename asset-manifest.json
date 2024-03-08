@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shree-react/static/css/main.2d30288d.css",
-    "main.js": "/shree-react/static/js/main.c072f031.js",
+    "main.js": "/shree-react/static/js/main.cc730e19.js",
     "static/js/453.11149024.chunk.js": "/shree-react/static/js/453.11149024.chunk.js",
     "static/media/beautiful_girl_home.png": "/shree-react/static/media/beautiful_girl_home.6458e6bcdc44c646ca09.png",
     "static/media/1.png": "/shree-react/static/media/1.a4d1783032b70d96878c.png",
@@ -38,11 +38,11 @@
     "static/media/arrow1.svg": "/shree-react/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/shree-react/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.2d30288d.css.map": "/shree-react/static/css/main.2d30288d.css.map",
-    "main.c072f031.js.map": "/shree-react/static/js/main.c072f031.js.map",
+    "main.cc730e19.js.map": "/shree-react/static/js/main.cc730e19.js.map",
     "453.11149024.chunk.js.map": "/shree-react/static/js/453.11149024.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d30288d.css",
-    "static/js/main.c072f031.js"
+    "static/js/main.cc730e19.js"
   ]
 }
