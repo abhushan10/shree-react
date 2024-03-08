@@ -126,7 +126,7 @@ export const Projects = () => {
                               <td>Arranging</td>   {/* Rita hour section */}
                             </tr>
                             <tr>
-                              <td>Seema</td>
+                              <td>Sammy</td>
                               <td>Unboarding</td>  {/* Seema Day section */}
                               <td>Arranging</td>    {/* Seema Hour section */}
                             </tr>
