@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5fe8d841.css",
-    "main.js": "/static/js/main.b490e7cd.js",
-    "static/js/453.11149024.chunk.js": "/static/js/453.11149024.chunk.js",
+    "main.js": "/static/js/main.fb326a61.js",
+    "static/js/453.64be9eb2.chunk.js": "/static/js/453.64be9eb2.chunk.js",
     "static/media/beautiful_girl_home.png": "/static/media/beautiful_girl_home.6458e6bcdc44c646ca09.png",
     "static/media/1.png": "/static/media/1.a4d1783032b70d96878c.png",
     "static/media/9.png": "/static/media/9.1736b3f7b575ec6708b5.png",
@@ -17,10 +17,10 @@
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/Shree_Brow_bar_Price_list.png": "/static/media/Shree_Brow_bar_Price_list.0ed2f3830780910c1491.png",
     "static/media/hannah.png": "/static/media/hannah.a72fd8ca657ad517006c.png",
+    "static/media/shree_canterbury_map.png": "/static/media/shree_canterbury_map.353c0fc7996f0f64bfb3.png",
     "static/media/Evie.png": "/static/media/Evie.a712dd5916dc0f69b4bc.png",
     "static/media/katie.png": "/static/media/katie.3b92351997dec99cc7d1.png",
     "static/media/banner_bg.jpg": "/static/media/banner_bg.422069c938e4553a0146.jpg",
-    "static/media/shree_map.png": "/static/media/shree_map.58a905c7dfac82dd5186.png",
     "static/media/logo_for_linkedin.png": "/static/media/logo_for_linkedin.2d1457f60339674dd8af.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -38,11 +38,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.5fe8d841.css.map": "/static/css/main.5fe8d841.css.map",
-    "main.b490e7cd.js.map": "/static/js/main.b490e7cd.js.map",
-    "453.11149024.chunk.js.map": "/static/js/453.11149024.chunk.js.map"
+    "main.fb326a61.js.map": "/static/js/main.fb326a61.js.map",
+    "453.64be9eb2.chunk.js.map": "/static/js/453.64be9eb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fe8d841.css",
-    "static/js/main.b490e7cd.js"
+    "static/js/main.fb326a61.js"
   ]
 }
