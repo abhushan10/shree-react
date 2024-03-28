@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Col, Row, Alert } from "react-bootstrap";
 import shree_map from "../assets/img/shree/shree_map.png";
+import React from 'react';
 
 export const Newsletter = ({ status, message, onValidated }) => {
   const [email, setEmail] = useState('');

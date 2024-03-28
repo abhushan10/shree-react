@@ -1,6 +1,7 @@
 import meter1 from "../assets/img/shree/hannah.png";
 import meter2 from "../assets/img/shree/Evie.png";
 import meter3 from "../assets/img/shree/katie.png";
+import React from 'react';
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import arrow1 from "../assets/img/arrow1.svg";

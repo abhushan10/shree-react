@@ -1,4 +1,5 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
+import React from 'react';
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/shree_services/1.png";
 import projImg2 from "../assets/img/shree_services/2.png";
