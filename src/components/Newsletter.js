@@ -77,11 +77,9 @@ export const Newsletter = ({ status, message, onValidated }) => {
                               <td>Contact Us</td>
                               
                             </tr>
+                            
                             <tr>
-                              <td>Email: assist@shreebrowbar.co.uk</td>
-                            </tr>
-                            <tr>
-                              <td>Phone: 07242352357</td>
+                              <td>Phone: 01227421858</td>
                               
                          
                       
